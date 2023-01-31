@@ -25,8 +25,8 @@ two classes of images: dolphins and whales.
 To retrieve more background information and to access data used in this 
 project, follow the source link of the Kaggle competition: 
 
-[Kaggle: Happy whale and 
-dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview)
+[Happywhale - Whale and Dolphin Identification
+](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview)
 
 The actual CNN was built by following the inspirational tutorial of 
 Nicholas Renotte:
