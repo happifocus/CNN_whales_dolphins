@@ -127,8 +127,7 @@ Set a main working directory by creating a main project folder named **Project_w
 
 ### 2. Download data
 
-Download related data from the [Kaggle competition 
-site](https://www.kaggle.com/competitions/happy-whale-and-dolphin/data). 
+Download related data from the [Kaggle competition: Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin/data). 
 To save data, almost 63 GB of storage space is required. Unzip downloaded data and add 
 them to the main project folder **Project_whales_dolphins** .
 
